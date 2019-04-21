@@ -8,7 +8,7 @@ body{
     body{
         background-image: url("images/back.png");
         background-repeat: no-repeat;
-        background-size: auto ;
+        background-size: 300px 100px ;
     }
 }
 div.name{
