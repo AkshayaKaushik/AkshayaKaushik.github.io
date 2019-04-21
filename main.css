@@ -1,10 +1,5 @@
-@media only screen and (min-width: 2000px) {
-body{
-	background-image: url("images/back.png");
-	background-repeat: no-repeat;
-	background-size: 100% ;
-}
-}
+
+
 div.name{
     text-align: center;
     color: darkslategray;
