@@ -5,13 +5,7 @@ body{
 	background-size: 100% ;
 }
 }
-@media only screen and (max-width: 600px) {
-    body{
-        background-image: url("images/back.png");
-        background-repeat: no-repeat;
-        background-size: auto ;
-    }
-    }
+
 div.name{
     text-align: center;
     color: darkslategray;
